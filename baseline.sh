@@ -1,0 +1,19 @@
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func superloss -backbone resnet18
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func superloss -backbone dense
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func superloss -backbone convnext_tiny
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func curriloss -backbone resnet18
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func curriloss -backbone dense
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func curriloss -backbone convnext_tiny
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func ce -backbone resnet18
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func ce -backbone dense
+CUDA_VISIBLE_DEVICES=7 python train.py -loss_func ce -backbone convnext_tiny
+
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func superloss -backbone resnet18
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func superloss -backbone dense
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func superloss -backbone convnext_tiny
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func curriloss -backbone resnet18
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func curriloss -backbone dense
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func curriloss -backbone convnext_tiny
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func ce -backbone resnet18
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func ce -backbone dense
+# CUDA_VISIBLE_DEVICES=7 python inference.py -loss_func ce -backbone convnext_tiny
