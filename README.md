@@ -1,6 +1,6 @@
 # Less is More: Adaptive Curriculum Learning for Thyroid Nodule Diagnosis [paper](https://arxiv.org/abs/2109.05159) 
 
-### 25th International Conference on Medical Image Computing and Computer Assisted Intervention(MICCAI)
+### 25th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) with Student Travel Award
 
 This repository is the official implementation of `ACL` for the binary classification task in Thyroid Nodule Diagnosis. In this paper, we propose a adaptive curriculum learning based method, ACL, to tackle with the inconsistent label problem. Specifically, ACL adaptively discovers and discards the samples with inconsistent labels via an adaptive threshold, calculated by the hard sample queue and the certainty queue.
 
@@ -14,10 +14,10 @@ Moreover, we contribute TNCD: a Thyroid Nodule Classification Dataset to facilit
 Please cite this paper in your publications if it helps your research
 
 ```
-@article{gong2022less,
+@inproceeding{gong2022less,
   title={Less is More: Adaptive Curriculum Learning for Thyroid Nodule Diagnosis},
   author={Gong, Haifan and Cheng, Hui and Xie, Yifan and Tan, Shuangyi and Chen, Guanqi and Chen, Fei and Li, Guanbin},
-  journal={arXiv preprint arXiv:2207.00807},
+  booktitle={MICCAI},
   year={2022}
 }
 ```
