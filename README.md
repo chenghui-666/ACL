@@ -27,7 +27,9 @@ Overview of the proposed adaptive curriculum learning framework. The orange part
 
 ### Prerequisites
 CUDA					  11.2
+
 torch                       1.11
+
 torchvision			 0.12
 
 ### Getting Started
