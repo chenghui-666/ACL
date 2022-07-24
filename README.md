@@ -44,7 +44,7 @@ git clone https://github.com/chenghui-666/ACL/
 
 #### Dataset
 
-The processed data should be downloaded via [Baidu Drive](链接：https://pan.baidu.com/s/1_pcVYndjTcBaPmI3nb6ObQ) with the extract code: `eehb`. The trained models are available at [Baidu Drive](https://pan.baidu.com/s/19AZx2gUvsOvyJeDvOW2PTg) with extract code: `dp1w`.
+The processed data should be downloaded via [Baidu Drive](https://pan.baidu.com/s/1_pcVYndjTcBaPmI3nb6ObQ) with the extract code: `eehb`. The trained models are available at [Baidu Drive](https://pan.baidu.com/s/19AZx2gUvsOvyJeDvOW2PTg) with extract code: `dp1w`.
 Or you can download the data from [Google Drive](https://drive.google.com/drive/folders/1YtZGTb-AOmVk_uRZGWsT-pjK8hOAUix6?usp=sharing). 
 
 The downloaded file should be extracted to `./datasets/`  directory.
