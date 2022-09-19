@@ -14,7 +14,7 @@ Moreover, we contribute TNCD: a Thyroid Nodule Classification Dataset to facilit
 Please cite this paper in your publications if it helps your research
 
 ```
-@inproceeding{gong2022less,
+@inproceedings{gong2022less,
   title={Less is More: Adaptive Curriculum Learning for Thyroid Nodule Diagnosis},
   author={Gong, Haifan and Cheng, Hui and Xie, Yifan and Tan, Shuangyi and Chen, Guanqi and Chen, Fei and Li, Guanbin},
   booktitle={MICCAI},
