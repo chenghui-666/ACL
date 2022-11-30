@@ -17,8 +17,10 @@ Please cite this paper in your publications if it helps your research
 @inproceedings{gong2022less,
   title={Less is More: Adaptive Curriculum Learning for Thyroid Nodule Diagnosis},
   author={Gong, Haifan and Cheng, Hui and Xie, Yifan and Tan, Shuangyi and Chen, Guanqi and Chen, Fei and Li, Guanbin},
-  booktitle={MICCAI},
-  year={2022}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={248--257},
+  year={2022},
+  organization={Springer}
 }
 ```
 
